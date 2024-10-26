@@ -7,7 +7,7 @@ This repository showcases my contributions to the El-Burhan Academy Web Applicat
 ## Table of Contents
 
 - [Overview](#overview)
-- [Key Responsibilities](#key-responsibilities)
+- [Key Contributions](#key-contributions)
 - [Technologies Used](#technologies-used)
 - [Project Details](#project-details)
   - [Admin Panel (CMS)](#admin-panel-cms)
@@ -23,14 +23,14 @@ This repository showcases my contributions to the El-Burhan Academy Web Applicat
 - [Achievements](#achievements)
 - [Contact](#contact)
 
-## Key Responsibilities
+## Key Contributions
 
-- Led the development of the backend using ASP.NET Core.
+- Contributed to the development of the backend using ASP.NET Core.
 - Implemented authentication and authorization using JSON Web Tokens (JWT) to ensure secure access.
-- Developed and managed the database using SQL and Entity Framework.
-- Utilized SignalR for real-time web functionalities.
-- Employed Serilog for advanced logging and diagnostics.
-- Hosted the application on Microsoft Azure, ensuring scalability and reliability.
+- Assisted in developing and managing the database using SQL and Entity Framework.
+- Integrated SignalR for real-time web functionalities.
+- Implemented Serilog for advanced logging and diagnostics.
+- Supported the deployment of the application on Microsoft Azure, ensuring scalability and reliability.
 
 ## Technologies Used
 
@@ -96,17 +96,16 @@ Family accounts allow parents to monitor their children's progress and manage pa
 
 ## Achievements
 
-- Delivered a seamless and secure learning platform.
+- Contributed to delivering a seamless and secure learning platform.
 - Enhanced user experience with real-time functionalities.
 - Ensured data integrity and security through robust authentication mechanisms.
-- Maintained high application performance and reliability.
+- Supported the maintenance of high application performance and reliability.
 
 ## Contact
 
 Feel free to reach out to me for more information or any queries related to this project.
 
-- **Email**: [hazem.work707@gmai.com ](mailto:hazem.work707@gmail.com )
+- **Email**: [hazem.work707@gmail.com](mailto:hazem.work707@gmail.com)
 - **LinkedIn**: [Hazem Monsif](https://www.linkedin.com/in/hazem-monsif-060b7621a/)
 
 ---
-
